@@ -3,42 +3,41 @@
 ### Undergraduate | Tech Enthusiast | Future Software Engineer
 
 Welcome to my GitHub profile!  
-I am passionate about technology, software development, and building creative digital solutions.  
-This profile showcases my learning journey, projects, and technical growth.
+I’m passionate about technology, software development, and building meaningful digital solutions. This profile highlights my projects, skills, and learning journey.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Undergraduate student
-- 💻 Interested in Software Development
-- 🌱 Currently learning modern technologies and programming concepts
-- 🔍 Exploring Web Development, Software Engineering, and AI
-- 🎯 Goal: To build impactful and user-friendly software solutions
+- 💻 Passionate about Software Development
+- 🌱 Currently learning modern technologies and frameworks
+- 🔍 Interested in Web Development, AI, and Software Engineering
+- 🎯 Goal: To become a skilled software engineer and build impactful systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 - Java
 - Python
 - JavaScript
 - PHP
 - SQL
 
-### Web Development
+### 🌐 Web Technologies
 - HTML
 - CSS
 - JavaScript
 - React
 - Node.js
 
-### Databases
+### 🗄️ Databases
 - MySQL
 - MongoDB
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
 - Git
 - GitHub
 - VS Code
@@ -47,53 +46,39 @@ This profile showcases my learning journey, projects, and technical growth.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
-Here are some of the projects I work on:
+🔹 Web Applications  
+🔹 Machine Learning Projects  
+🔹 Software Engineering Systems  
+🔹 Database-Driven Applications  
+🔹 UI/UX Designs  
 
-- 🌐 Web Application Projects
-- 🤖 AI / Machine Learning Projects
-- 📊 Software Engineering Projects
-- 🗄️ Database Management Systems
-- 📱 Responsive UI/UX Implementations
-
-> You can explore my repositories to see more of my work.
+👉 Check out my repositories to explore my work!
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Anuththara's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Anuththara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuththara45&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuththara45&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anuththara45&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN)
-- Email: yourmail@example.com
-- Portfolio: [Your Portfolio Website](https://yourwebsite.com)
-
----
-
-## ✨ Quote I Believe In
-
-> "Keep learning, keep building, and keep growing."
-
----
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Anuththara45&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-Thanks for visiting my profile! ⭐  
-Feel free to check out my repositories and connect with me.
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me.
